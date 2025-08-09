@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+text-align: center;}
+main{
+    background-color: rgb(14, 14, 14);
+    margin: 0 auto;
+width: 480px;
+}
+h1{
+    color: white;}
+h2{
+    color: rgb(197, 248, 42)}
+p{color:white;}
+.s{
+    color: white;
+    background-color: gray;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding: 20px;
+}
+

@@ -5,6 +5,8 @@ main{
     background-color: rgb(14, 14, 14);
     margin: 0 auto;
 width: 480px;
+margin-top: 100px;
+border-radius: 2%;
 }
 h1{
     color: white;}
